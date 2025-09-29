@@ -11,5 +11,5 @@ mw_comment_version: 11
 modules:
 - object: files/module.rel
   hash: 0123456789abcdef0123456789abcdef01234567
-  symbols: config/GAMEID/module/symbols.txt
-  splits: config/GAMEID/module/splits.txt
+  symbols: config/RFNE01/module/symbols.txt
+  splits: config/RFNE01/module/splits.txt
